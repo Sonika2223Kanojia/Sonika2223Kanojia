@@ -1,4 +1,4 @@
-### Hi there 👋
+ Hi 👋
 
 <!--
 **Sonika2223Kanojia/Sonika2223Kanojia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
